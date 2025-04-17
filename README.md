@@ -1,4 +1,4 @@
-# 👋 Hey There!, I'm cyberkiddle.
+# 👋 Hi There!, I'm Cyberkiddle.
 
 I'm a cybersecurity enthusiast with a strong focus on Red Teaming, Reverse Engineering, Active directory, Host penetration testing and Wireless Security. I love diving deep into Active Directory environments, simulating adversary tactics, and uncovering hidden vulnerabilities.
 
